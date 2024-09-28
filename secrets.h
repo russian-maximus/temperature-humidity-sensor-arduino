@@ -9,5 +9,5 @@
 // ssid and passPhrase can be used when compiling for a specific environment as a 2. option.
 
 // add you wifi network name and PassPhrase or use WiFi Manager
-const char *ssid = "Pushkin";
-const char *passPhrase = "FuckYouDantes-1837";
+const char *ssid = "";
+const char *passPhrase = "";
