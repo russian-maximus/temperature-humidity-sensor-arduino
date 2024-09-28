@@ -7,17 +7,17 @@ The system collects real-time temperature and humidity data from a sensor, and d
 This way, users can view the environmental conditions in real-time by accessing the sensor data from any device on the same network.  
 
 ## **Features**  
-Real-time Sensor Data -> The sensor reads temperature and humidity levels and transmits them to the web server and interface.  
-Simple Web UI -> The data is presented on a minimalistic web page, accessible over Wi-Fi, which automatically updates with the latest readings.  
-Wireless Monitoring: -> Thanks to the ESP8266 processor's built-in Wi-Fi capabilities, the system can be accessed wirelessly from any web browser.  
-Low Power Consumption -> Using the ESP8266 microcontroller ensures efficient energy usage.  
+*Real-time Sensor Data* -> The sensor reads temperature and humidity levels and transmits them to the web server and interface.  
+*Simple Web UI* -> The data is presented on a minimalistic web page, accessible over Wi-Fi, which automatically updates with the latest readings.  
+*Wireless Monitoring* -> Thanks to the ESP8266 processor's built-in Wi-Fi capabilities, the system can be accessed wirelessly from any web browser.  
+*Low Power Consumption* -> Using the ESP8266 microcontroller ensures efficient energy usage.  
 
 ## **Technologies Used**  
-Arduino -> The core of the system, programmed in C++ using the Arduino IDE.  
-ESP8266 Microcontroller -> A Wi-Fi-enabled microcontroller for real-time data reading and network communication.  
-DHT Sensor -> Used to measure temperature and humidity levels.  
-HTML & CSS -> For building a simple web UI that displays sensor data.  
-Embedded Web Server -> The ESP8266 hosts a web server that serves the web UI.  
+*Arduino* -> The core of the system, programmed in C++ using the Arduino IDE.  
+*ESP8266 Microcontroller* -> A Wi-Fi-enabled microcontroller for real-time data reading and network communication.  
+*DHT Sensor* -> Used to measure temperature and humidity levels.  
+*HTML & CSS* -> For building a simple web UI that displays sensor data.  
+*Embedded Web Server* -> The ESP8266 hosts a web server that serves the web UI.  
 
 ## **How It Works**  
 1. The ESP8266 is programmed to read temperature and humidity data from the DHT11/DHT22 sensor at regular intervals.  
