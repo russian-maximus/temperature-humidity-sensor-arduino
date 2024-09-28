@@ -5,7 +5,7 @@
 This work is licensed under a BSD 3-Clause style license,
 https://www.mathertel.de/License.aspx.
 
-USE the IoT_setup_guide.pdf for for the installation process (in German) or https://homeding.github.io/index.htm#page=/examples/develop.md (in English)
+USE the IoT_setup_guide.pdf for for the setup process (in German) or https://homeding.github.io/index.htm#page=/examples/develop.md (in English)
 
 More information on https://www.mathertel.de/Arduino
 
